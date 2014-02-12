@@ -1,0 +1,28 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "3-part-vertical",
+        "center" : {
+          "mode" : "fill",
+          "height" : 1
+        },
+        "capInsets" : {
+          "top" : 1,
+          "bottom" : 17
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "Pipe.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
